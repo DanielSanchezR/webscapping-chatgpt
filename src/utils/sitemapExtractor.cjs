@@ -22,11 +22,11 @@ async function downloadXml(url, destination) {
     });
 }
 
-// Crea la carpeta src/repository/config/ si no existe.
+// Create the folder if it doesn't exist
 if (!fs.existsSync(folderPath)) {
     fs.mkdirSync(folderPath, { recursive: true });
 }
 
-// Descarga el xml y lo guarda en la carpeta src/repository/config/
+// Download the XML file
 const filename = folderPath + "sitemap-pages.xml";
 downloadXml(url, filename);

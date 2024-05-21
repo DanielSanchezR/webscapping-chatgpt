@@ -1,0 +1,29 @@
+<filter>
+    <tagsToIgnore>
+      <tag>style</tag>
+      <tag>header</tag>
+      <tag>noscript</tag>
+      <tag>script</tag>
+      <tag>button</tag>
+      <tag>div</tag>
+      <tag>img</tag>
+      <tag>figure</tag>
+      <tag>footer</tag>
+      <tag>section</tag>
+      <tag>form</tag>
+    </tagsToIgnore>
+    <notNeededContent>
+      <content>Estudiantes</content>
+      <content>Alumni</content>
+      <content>Biblioteca</content>
+      <content>¿Tiene alguna duda sobre el Doctorado? Consúltenos en WhatsApp.</content>
+      <content>Nombre</content>
+      <content>Email</content>
+      <content>Télefono</content>
+      <content>Colombia (+57)</content>
+      <content>"He leído y acepto los términos y condiciones de la Política de Protección de Datos</content>
+      <content>Política de Protección de Datos</content>
+      <content>Comunícate con nosotros</content>
+    </notNeededContent>
+</filter>
+  
